@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtube.com/.....
 
 Link to the slide:
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1ccejKTsyDN1hI8JlEC-zYL6u89VcE7MfAPhtVAJcF_0/edit?usp=sharing
 
 Paper title:
 Does Commonsense help in detecting Sarcasm?
