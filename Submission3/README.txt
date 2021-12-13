@@ -25,4 +25,4 @@ Group Members:
 19201136 Ifrit Jamal Sneha
 18301075 Elizabeth Antora Modhu
 18101419 Arjun Suter
-16301037 Nuhash Amed Chowdhury
+16301037 Nuhash Ahmed Chowdhury
