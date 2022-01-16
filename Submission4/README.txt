@@ -8,7 +8,7 @@ Paper title:
 Is Sarcasm Easy to Detect?
 
 Paper presentation:
-https://docs.google.com/presentation/d/10yMBnHiJuJ47ibjZrSRbT7_-jIwTBXmu7shOvb1UpYs/edit#slide=id.gc6f73a04f_0_0
+https://docs.google.com/presentation/d/10yMBnHiJuJ47ibjZrSRbT7_-jIwTBXmu7shOvb1UpYs/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
